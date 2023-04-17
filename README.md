@@ -57,7 +57,7 @@
 
 <p>Как решала(-а): краткое описание решения (автореферат)<p>
   
-> <a href="https://drive.google.com/drive/folders/1wdD-mfSeIsHWgrMLJz8Tv_ClAuP_EAOQ?usp=sharing">Ссылка на проект</a>
+> <a href="https://drive.google.com/drive/folders/1JS3mRx8_s8mohnmEV3_DgDbQ6YkLUFuV">Ссылка на проект</a>
 (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
 
   <p>Выводы (итоги):<p>
